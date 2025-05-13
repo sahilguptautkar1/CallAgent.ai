@@ -1,0 +1,12 @@
+{
+  "rules": {
+    "help_requests": {
+      ".read": true,
+      ".write": true
+    },
+    "knowledge_base": {
+      ".read": true,
+      ".write": true
+    }
+  }
+}
